@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://woorine.github.io/sitemap.xml
