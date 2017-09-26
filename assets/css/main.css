@@ -3083,7 +3083,7 @@
 			}
 
 			.wrapper.style1 header p {
-				color: #bfbfbf;
+				color: #898989;
 			}
 
 			.wrapper.style1 table tbody tr {
@@ -3328,6 +3328,10 @@
 
 		.wrapper.style3 {
 			background-color: #ffffff;
+			color: #898989;
+		}
+
+		.wrapper.style3 header p {
 			color: #898989;
 		}
 
