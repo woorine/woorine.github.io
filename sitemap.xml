@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <!--XML Sitemap created by the unregistered version of Sitemap Automator http://www.ragesw.com-->
 	<url>
 		<loc>https://woorine.github.io/index.html</loc>
@@ -10,6 +11,80 @@
 		<loc>https://woorine.github.io/</loc>
 		<lastmod>2017-09-26</lastmod>
 		<priority>0.5</priority>
+	</url>
+	<url>
+		<image:image>
+       		<image:loc>https://woorine.github.io/images/pic01.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic02.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic03.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic04.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic05.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic06.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic07.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic08.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic09.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic10.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic11.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic12.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic13.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic14.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic15.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic16.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic17.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
+    	<image:image>
+       		<image:loc>https://woorine.github.io/images/pic18.jpg</image:loc>
+       		<image:caption>Gapyeong apple farm</image:caption>
+    	</image:image>
 	</url>
 <!--XML Sitemap created by Sitemap Automator http://www.ragesw.com-->
 </urlset>
